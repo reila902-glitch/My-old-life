@@ -1,0 +1,7 @@
+{
+  "name": "인생선배의 따뜻한 은퇴·노년 설계 나침반",
+  "description": "오랜 세월을 먼저 살아온 인생 선배의 따뜻한 시선으로 100세 시대 5년 주기 생활자금, 건강 관리, 버킷리스트 실현을 다정하게 설계해 드리는 노년 라이프 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
